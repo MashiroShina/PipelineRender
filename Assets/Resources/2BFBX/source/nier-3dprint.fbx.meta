@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 1d94c96909815f94ab5a9e6d140952cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm left elbow
+    100002: arm left finger 1a
+    100004: arm left finger 1b
+    100006: arm left finger 1c
+    100008: arm left finger 2a
+    100010: arm left finger 2b
+    100012: arm left finger 2c
+    100014: arm left finger 3a
+    100016: arm left finger 3b
+    100018: arm left finger 3c
+    100020: arm left finger 4a
+    100022: arm left finger 4b
+    100024: arm left finger 4c
+    100026: arm left finger 5a
+    100028: arm left finger 5b
+    100030: arm left finger 5c
+    100032: arm left shoulder 1
+    100034: arm left shoulder 2
+    100036: arm left wrist
+    100038: arm right elbow
+    100040: arm right finger 1a
+    100042: arm right finger 1b
+    100044: arm right finger 1c
+    100046: arm right finger 2a
+    100048: arm right finger 2b
+    100050: arm right finger 2c
+    100052: arm right finger 3a
+    100054: arm right finger 3b
+    100056: arm right finger 3c
+    100058: arm right finger 4a
+    100060: arm right finger 4b
+    100062: arm right finger 4c
+    100064: arm right finger 5a
+    100066: arm right finger 5b
+    100068: arm right finger 5c
+    100070: arm right shoulder 1
+    100072: arm right shoulder 2
+    100074: arm right wrist
+    100076: B_Swords_withoutanimation1:Object007
+    100078: B_Swords_withoutanimation:Object007
+    100080: back
+    100082: boob left
+    100084: boob right
+    100086: group
+    100088: head jaw
+    100090: head neck lower
+    100092: head neck upper
+    100094: head tongue 1
+    100096: head tongue 2
+    100098: left
+    100100: leg left ankle
+    100102: leg left knee
+    100104: leg left thigh
+    100106: leg left toes
+    100108: leg right ankle
+    100110: leg right knee
+    100112: leg right thigh
+    100114: leg right toes
+    100116: //RootNode
+    100118: Object001
+    100120: Object002
+    100122: Object003
+    100124: Object004
+    100126: Object005
+    100128: Object006
+    100130: Object007
+    100132: Object008
+    100134: Object009
+    100136: Object010
+    100138: Object011
+    100140: Object012
+    100142: Object013
+    100144: pCylinder1
+    100146: root ground
+    100148: root hips
+    100150: skirt back 1
+    100152: skirt back 2
+    100154: skirt back 3
+    100156: skirt back 4
+    100158: skirt front 1
+    100160: skirt front 2
+    100162: skirt front 3
+    100164: skirt front 4
+    100166: skirt left 1
+    100168: skirt left 2
+    100170: skirt ribbon 1
+    100172: skirt ribbon 2
+    100174: skirt right 1
+    100176: skirt right 2
+    100178: spine lower
+    100180: spine middle
+    100182: spine upper
+    100184: unused bip index 2 l end
+    100186: unused bip index 2 r end
+    100188: unused bip middle 2 l end
+    100190: unused bip middle 2 r end
+    100192: unused bip pinky 2 l end
+    100194: unused bip pinky 2 r end
+    100196: unused bip ring 2 l end
+    100198: unused bip ring 2 r end
+    100200: unused bip spine 3
+    100202: unused bip thumb 2 l end
+    100204: unused bip thumb 2 r end
+    100206: unused bip toe l end
+    100208: unused bip toe r end
+    100210: unused breast l end
+    100212: unused breast r end
+    100214: unused root ground 2
+    100216: unused skirt back2 end
+    100218: unused skirt back4 end
+    100220: unused skirt front2 end
+    100222: unused skirt front4 end
+    100224: unused skirt left2 end
+    100226: unused skirt ribbona end
+    100228: unused skirt ribbonb end
+    100230: unused skirt right2 end
+    100232: unused tongue2 end
+    400000: arm left elbow
+    400002: arm left finger 1a
+    400004: arm left finger 1b
+    400006: arm left finger 1c
+    400008: arm left finger 2a
+    400010: arm left finger 2b
+    400012: arm left finger 2c
+    400014: arm left finger 3a
+    400016: arm left finger 3b
+    400018: arm left finger 3c
+    400020: arm left finger 4a
+    400022: arm left finger 4b
+    400024: arm left finger 4c
+    400026: arm left finger 5a
+    400028: arm left finger 5b
+    400030: arm left finger 5c
+    400032: arm left shoulder 1
+    400034: arm left shoulder 2
+    400036: arm left wrist
+    400038: arm right elbow
+    400040: arm right finger 1a
+    400042: arm right finger 1b
+    400044: arm right finger 1c
+    400046: arm right finger 2a
+    400048: arm right finger 2b
+    400050: arm right finger 2c
+    400052: arm right finger 3a
+    400054: arm right finger 3b
+    400056: arm right finger 3c
+    400058: arm right finger 4a
+    400060: arm right finger 4b
+    400062: arm right finger 4c
+    400064: arm right finger 5a
+    400066: arm right finger 5b
+    400068: arm right finger 5c
+    400070: arm right shoulder 1
+    400072: arm right shoulder 2
+    400074: arm right wrist
+    400076: B_Swords_withoutanimation1:Object007
+    400078: B_Swords_withoutanimation:Object007
+    400080: back
+    400082: boob left
+    400084: boob right
+    400086: group
+    400088: head jaw
+    400090: head neck lower
+    400092: head neck upper
+    400094: head tongue 1
+    400096: head tongue 2
+    400098: left
+    400100: leg left ankle
+    400102: leg left knee
+    400104: leg left thigh
+    400106: leg left toes
+    400108: leg right ankle
+    400110: leg right knee
+    400112: leg right thigh
+    400114: leg right toes
+    400116: //RootNode
+    400118: Object001
+    400120: Object002
+    400122: Object003
+    400124: Object004
+    400126: Object005
+    400128: Object006
+    400130: Object007
+    400132: Object008
+    400134: Object009
+    400136: Object010
+    400138: Object011
+    400140: Object012
+    400142: Object013
+    400144: pCylinder1
+    400146: root ground
+    400148: root hips
+    400150: skirt back 1
+    400152: skirt back 2
+    400154: skirt back 3
+    400156: skirt back 4
+    400158: skirt front 1
+    400160: skirt front 2
+    400162: skirt front 3
+    400164: skirt front 4
+    400166: skirt left 1
+    400168: skirt left 2
+    400170: skirt ribbon 1
+    400172: skirt ribbon 2
+    400174: skirt right 1
+    400176: skirt right 2
+    400178: spine lower
+    400180: spine middle
+    400182: spine upper
+    400184: unused bip index 2 l end
+    400186: unused bip index 2 r end
+    400188: unused bip middle 2 l end
+    400190: unused bip middle 2 r end
+    400192: unused bip pinky 2 l end
+    400194: unused bip pinky 2 r end
+    400196: unused bip ring 2 l end
+    400198: unused bip ring 2 r end
+    400200: unused bip spine 3
+    400202: unused bip thumb 2 l end
+    400204: unused bip thumb 2 r end
+    400206: unused bip toe l end
+    400208: unused bip toe r end
+    400210: unused breast l end
+    400212: unused breast r end
+    400214: unused root ground 2
+    400216: unused skirt back2 end
+    400218: unused skirt back4 end
+    400220: unused skirt front2 end
+    400222: unused skirt front4 end
+    400224: unused skirt left2 end
+    400226: unused skirt ribbona end
+    400228: unused skirt ribbonb end
+    400230: unused skirt right2 end
+    400232: unused tongue2 end
+    2000000: back
+    2000002: left
+    2100000: 'Material #25'
+    2100002: 'Material #26'
+    2100004: 'Material #27'
+    2100006: 'Material #28'
+    2100008: B_Swords_withoutanimation_02 - Default
+    2100010: B_Swords_withoutanimation1_02 - Default
+    2100012: blinn1
+    2300000: B_Swords_withoutanimation1:Object007
+    2300002: B_Swords_withoutanimation:Object007
+    2300004: pCylinder1
+    3300000: B_Swords_withoutanimation1:Object007
+    3300002: B_Swords_withoutanimation:Object007
+    3300004: pCylinder1
+    4300000: Object001
+    4300002: Object002
+    4300004: Object003
+    4300006: Object004
+    4300008: Object005
+    4300010: Object006
+    4300012: Object007
+    4300014: Object008
+    4300016: Object009
+    4300018: Object010
+    4300020: Object011
+    4300022: Object012
+    4300024: Object013
+    4300026: B_Swords_withoutanimation:Object007
+    4300028: B_Swords_withoutanimation1:Object007
+    4300030: pCylinder1
+    9500000: //RootNode
+    13700000: Object001
+    13700002: Object002
+    13700004: Object003
+    13700006: Object004
+    13700008: Object005
+    13700010: Object006
+    13700012: Object007
+    13700014: Object008
+    13700016: Object009
+    13700018: Object010
+    13700020: Object011
+    13700022: Object012
+    13700024: Object013
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
